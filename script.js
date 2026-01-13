@@ -1,14 +1,13 @@
 let messageIndex = 0;
 
 const messages = [
-    "Are you sure?",
-    "Really? Think carefully!",
-    "I'll be very sad... 🥺",
+    "آNo",
+    "No",
+    "No",
     "Please say yes!",
+    "No",
     "Just think about it!",
-    "I'll die from sadness! ",
-    "if you say no, I'll be very sad... 🥺",
-    "don't do this to me"
+    "Are you sure?"
 ];
 
 function handleNoClick() {
@@ -33,3 +32,4 @@ function handleYesClick() {
     window.location.href = "yes_page.html";
 
 }
+
