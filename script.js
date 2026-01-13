@@ -1,7 +1,7 @@
 let messageIndex = 0;
 
 const messages = [
-    "آNo",
+    "No",
     "No",
     "No",
     "Please say yes!",
@@ -32,5 +32,6 @@ function handleYesClick() {
     window.location.href = "yes_page.html";
 
 }
+
 
 
